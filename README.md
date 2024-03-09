@@ -1,31 +1,35 @@
-# Hi there, I'm Rahul Kumar Sahu! 👋
+![image](https://github.com/rahulsahu24/rahulsahu24/assets/142143364/4cf375d9-57c1-450f-be38-3750a4e51b32)
 
-## About Me
-I am a passionate Data Analytics professional with a strong background in Python, Machine Learning, SQL, and visualization tools like Tableau and Power BI. I enjoy solving complex problems using data-driven approaches and have experience in various domains including [mention any relevant domains or industries].
+<h1 align="center">Hi 👋, I'm Rahul Kumar Sahu</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently honing my skills in [mention any specific areas you're currently learning or interested in].
-- 👯 I’m looking to collaborate on projects involving data analysis, predictive modeling, and visualization.
-- 💬 Ask me about anything related to data analytics, Python, or Machine Learning. I'm always eager to learn and share knowledge!
 
-## Skills
-- **Programming Languages:** Python, SQL, C++
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI, Excel
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Other Tools:** Git, Jupyter Notebook, Google Colab
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsahu24&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsahu24" /> </p>
 
-## Projects
-Here are a few projects I've worked on:
-1. [Project Name](link-to-project) - Brief description
-2. [Project Name](link-to-project) - Brief description
-3. [Project Name](link-to-project) - Brief description
+- I'm currently studying computer science **Amity University Chhattisgarh**
 
-Feel free to check out my [portfolio](link-to-portfolio) for more projects!
+- I'm currently working on my project. [IPL Analysis](https://drive.google.com/file/d/1NA71rdKOZ8JiZkih-M6Nfo-b65iA0M1t/view?usp=drivesdk)
 
-## Connect with Me
-- LinkedIn: [Rahul Kumar Sahu](link-to-LinkedIn-profile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- My previously completed project. [Movie Recommendation Software](gh repo clone rahulsahu24/Movie-Recommender-System)
 
-## Let's Connect and Collaborate!
-If you're working on interesting projects or looking for someone to collaborate with, feel free to reach out. I'm always open to new opportunities and exciting collaborations!
+- 👨‍💻 All of my social accounts [http://linktr.ee/rahulsahu24](http://linktr.ee/rahulsahu24)
 
+- 📫 How to reach me **rahulsahu2408@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NbsSj9Dq2_YTYM5gUe-j4PetYoYGKAHI/view?usp=drivesdk](https://drive.google.com/file/d/1NbsSj9Dq2_YTYM5gUe-j4PetYoYGKAHI/view?usp=drivesdk)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@rahul_sahu24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahul_sahu24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul kumar sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar sahu" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_kartik_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_kartik_24" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsahu24&show_icons=true&locale=en&layout=compact" alt="rahulsahu24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsahu24&show_icons=true&locale=en" alt="rahulsahu24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsahu24&" alt="rahulsahu24" /></p>
