@@ -10,7 +10,7 @@
 
 - I'm currently working on my project. [IPL Analysis](https://drive.google.com/file/d/1NA71rdKOZ8JiZkih-M6Nfo-b65iA0M1t/view?usp=drivesdk)
 
-- My previously completed project. [Movie Recommendation Software](gh repo clone rahulsahu24/Movie-Recommender-System)
+- My previously completed project. [Movie Recommendation Software](rahulsahu24/Movie-Recommender-System)
 
 - 👨‍💻 All of my social accounts [http://linktr.ee/rahulsahu24](http://linktr.ee/rahulsahu24)
 
